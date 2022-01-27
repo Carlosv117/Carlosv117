@@ -4,13 +4,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-vitor-ribeiro-cerqueira-lima-08aa78212/)](https://www.linkedin.com/in/carlos-vitor-ribeiro-cerqueira-lima-08aa78212/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:limacarlosvitor@gmail.com)](mailto:limacarlosvitor@gmail.com)
 
-
-
-- 👋 Hi, I’m @Carlosv117
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<div align="center">
+  <a href="https://github.com/Carlosv117">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlosv117&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosv117&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
+</div>
 
 <!---
 Carlosv117/Carlosv117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
